@@ -34,7 +34,7 @@
       position: fixed;
       z-index: 1001;
       right: 20px;
-      bottom: 100px;
+      bottom: 140px;
       width: 350px;
       height: 500px;
       background-color: white;
