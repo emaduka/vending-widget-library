@@ -101,15 +101,15 @@
 
     const widgetButton = document.getElementById('website-widget-btn');
     const modal = document.getElementById('website-modal');
-    const closeButton = document.querySelector('.close-btn');
+    // const closeButton = document.querySelector('.close-btn');
 
     widgetButton.addEventListener('click', function() {
       modal.classList.toggle('show');
     });
 
-    closeButton.addEventListener('click', function() {
-      modal.classList.remove('show');
-    });
+    // closeButton.addEventListener('click', function() {
+    //   modal.classList.remove('show');
+    // });
 
     window.addEventListener('click', function(event) {
       if (modal.classList.contains('show') && !modal.contains(event.target) && !widgetButton.contains(event.target)) {
