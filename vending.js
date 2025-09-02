@@ -35,7 +35,7 @@
       z-index: 1001;
       right: 20px;
       bottom: 140px !important;
-      width: 350px;
+      width: 450px;
       height: 500px;
       background-color: white;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
