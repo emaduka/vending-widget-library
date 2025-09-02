@@ -74,7 +74,7 @@
   // HTML for the button and modal
   const htmlContent = `
     <div id="website-widget-btn" class="website-widget-btn">
-      <img src="http://assets.sochitelignite.com/images/logo.svg" alt="Website Icon" class="widget-icon">
+      <img src="https://assets.sochitelignite.com/images/logo.svg" alt="Website Icon" class="widget-icon">
     </div>
     <div class="website-widget-text">
       <small>Sochitel E-Sims</small>
